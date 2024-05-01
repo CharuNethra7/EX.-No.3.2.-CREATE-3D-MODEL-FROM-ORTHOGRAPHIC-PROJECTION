@@ -43,7 +43,8 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
-![Ex 3 2](https://github.com/CharuNethra7/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/143937317/4fd21528-9d30-4d85-a10c-338ce1db3212)
+![EX 3 2 (2)](https://github.com/CharuNethra7/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/143937317/233b7528-155c-4e48-abdf-ac44f9675ba2)
+
 
 
 ## RESULT:
